@@ -122,7 +122,7 @@ server.close()
 
 ```
 
-![alt text](image.png)
+<img width="1139" height="146" alt="image" src="https://github.com/user-attachments/assets/04fab3e3-aa11-46a0-9930-74b73743278f" />
 
 
 ## CLIENT CHAT :
@@ -159,7 +159,8 @@ client.close()
 
 ```
 
-![alt text](image1.png)
+<img width="1139" height="146" alt="image" src="https://github.com/user-attachments/assets/b695020c-91bd-4264-b9bd-0271b7e2486d" />
+
 
 
 Client-server chat applications are versatile tools that facilitate real-time communication between users over a network. They incorporate various components, including server-side and client-side elements, and must consider factors such as security, scalability, and concurrency. As technology continues to advance, client-server chat applications remain integral for collaborative communication in various domains.
