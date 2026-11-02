@@ -159,7 +159,7 @@ client.close()
 
 ```
 
-![alt text](image-1.png)
+![alt text](image1.png)
 
 
 Client-server chat applications are versatile tools that facilitate real-time communication between users over a network. They incorporate various components, including server-side and client-side elements, and must consider factors such as security, scalability, and concurrency. As technology continues to advance, client-server chat applications remain integral for collaborative communication in various domains.
